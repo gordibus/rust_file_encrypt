@@ -1,0 +1,11 @@
+[package]
+name = "aes_file_encrypt"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand ="0.8"
+aes="0.7"
+hex="0.4"
+block-modes="0.8"
+
